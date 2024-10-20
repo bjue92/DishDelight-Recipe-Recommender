@@ -8,6 +8,7 @@ Our goal of this project is to create a recipe recommender based on ingredients 
 ## Table of Contents
 - Data Source
 - Technologies/Packages
+- Notebooks
 - Models
 - Results
 - Limitations
@@ -28,6 +29,17 @@ https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactio
 - Jupyter Notebook
 - Gensim
 - Sklearn
+
+## Notebooks Order
+Data Set 1 Preprocessing - Preprocess recipes dataset
+Data Set 2 Preprocessing - Preprocess recipes with search terms
+Data Set 3 Preprocessing - Preprocess Raw recipe file
+Data Set Preprocessing Final - Merge all 3 datasets and preprocess
+Exploratory Data Anlaysis
+Recommender system - Baseline Model
+Content Based Filtering
+Collaborative Filtering System
+Hybrid Approach
 
 ## Models
 - FunkSVD Collaborative Recommender
