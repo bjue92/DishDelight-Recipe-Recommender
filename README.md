@@ -31,15 +31,15 @@ https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactio
 - Sklearn
 
 ## Notebooks Order
-Data Set 1 Preprocessing - Preprocess recipes dataset
-Data Set 2 Preprocessing - Preprocess recipes with search terms
-Data Set 3 Preprocessing - Preprocess Raw recipe file
-Data Set Preprocessing Final - Merge all 3 datasets and preprocess
-Exploratory Data Anlaysis
-Recommender system - Baseline Model
-Content Based Filtering
-Collaborative Filtering System
-Hybrid Approach
+Data Set 1 Preprocessing - Preprocess recipes dataset <br>
+Data Set 2 Preprocessing - Preprocess recipes with search terms <br>
+Data Set 3 Preprocessing - Preprocess Raw recipe file <br>
+Data Set Preprocessing Final - Merge all 3 datasets and preprocess <br>
+Exploratory Data Anlaysis <br>
+Recommender system - Baseline Model <br>
+Content Based Filtering <br>
+Collaborative Filtering System <br>
+Hybrid Approach <br>
 
 ## Models
 - FunkSVD Collaborative Recommender
