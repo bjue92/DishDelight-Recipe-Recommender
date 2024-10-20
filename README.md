@@ -1,4 +1,7 @@
-# DishDelight - Recipe Recommender
+![image](https://github.com/user-attachments/assets/6ad9c31b-b843-4d84-bf90-128a5d743ec0)
+
+
+# Recipe Recommender
 
 Food waste is a huge problem that goes subtlety unnoticed in our household as the amount of food thrown out each week may be minimal but accumulates to noticeable effects.
 
